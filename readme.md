@@ -17,9 +17,13 @@ npm start
 ``
 
 ``
+open http://localhost:3000 via pc browser
+``
+
+``
 open http://{pc_ip}:3000 via mobile device and upload image
 ``
 
 ``
-open http://localhost:3000 via pc browser and see the result
+back to the http://localhost:3000 via pc browser and see the result
 ``
