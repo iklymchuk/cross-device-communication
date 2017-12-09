@@ -9,11 +9,15 @@ cd cross-device-communication
 ``
 
 ``
+npm install
+``
+
+``
 npm start
 ``
 
 ``
-open http://{pc_ip}:3000 via mobile device
+open http://{pc_ip}:3000 via mobile device and upload image
 ``
 
 ``
