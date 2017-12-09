@@ -19,6 +19,7 @@ const io = socketIO(server);
 io.on("connection", function(socket) {
   // Register "join" events, requested by a connected client
   socket.on("join", function (room) {
+    console.log('Client connected!')
     // join channel provided by client
     socket.join(room)
     // Register "image" events, sent by the client
